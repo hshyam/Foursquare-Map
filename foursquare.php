@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <!-- 
-CSci4131 Spring 2014
-Assignment# 5
-name: Harshita Shyam
-student id: 4404640
+Name: Harshita Shyam
 x500 id: shyam007
 -->
 
